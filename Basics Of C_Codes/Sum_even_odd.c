@@ -1,4 +1,9 @@
-//Sum of even and odd number using while loop
+/**
+ * The program calculates the sum of even and odd numbers entered by the user up to a specified limit
+ * using a while loop.
+ * 
+ * @return The program returns 0, which indicates successful execution and termination of the program.
+ */
 #include <stdio.h>
 
 int main() {
